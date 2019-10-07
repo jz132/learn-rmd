@@ -1,6 +1,8 @@
 ---
 title: "Learn RMarkdown"
-output: html_document
+author: "Jingkang Zhao"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
